@@ -28,8 +28,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/ochotadariusz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ochotadariusz&hide_border=true&layout=compact&count_private=true&hide=stars&show_icons=true&theme=onedark&custom_title=Languages%20I%20Use!" />
 </a>
-
-✨Buy me a lambo:
-
-
-[![Imgur](https://i.imgur.com/kbKvqLy.png)](ethereum:0xd02300711751198e9B4Fb506f7297d80756C86F9?amount=0.01)
