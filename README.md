@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I was always starting to learn new enviroments/languanges from the hardest-enterprise based tools without even knowing that.
 - 📫 How to reach me: 
 -    [✉️](mailto:ochota.dariusz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 -    [🕊](https://twitter.com/OchotaDariusz)
