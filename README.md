@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ... -->
 - 📫 How to reach me: 
--    [✉️](mailto:ochota.dariusz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
--    [🕊](https://twitter.com/OchotaDariusz)
--    [🤦‍♂️📘](https://www.facebook.com/darojimi)
+-    [✉️ E-Mail](mailto:ochota.dariusz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 ![wtf](https://runway.com/images/Huh.gif)
