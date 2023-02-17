@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 <!--- 🔭 I’m currently working on own private blockchain network and mining/staking cryptocurrency pool -->
-- 🌱 I’m currently learning at [CodeCool](https://codecool.com)
+- 🌱 Fresh Full Stack Developer (thanks to [CodeCool](https://codecool.com))
 <!-- - 👯 I’m looking to collaborate on ... i'll be glad if any my idea will help someone with anything
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
