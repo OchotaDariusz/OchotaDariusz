@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/ochotadariusz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ochotadariusz&count_private=true&hide=stars&hide_border=true&show_icons=true&theme=onedark&custom_title=My%20GitHub%20Stats!" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ochotadariusz&count_private=false&hide=stars&hide_border=true&show_icons=true&theme=onedark&custom_title=My%20GitHub%20Stats!" />
 </a>
 <a href="https://github.com/ochotadariusz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ochotadariusz&hide_border=true&layout=compact&count_private=true&hide=stars&show_icons=true&theme=onedark&custom_title=Languages%20I%20Use!" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ochotadariusz&hide_border=true&layout=compact&count_private=false&hide=stars&show_icons=true&theme=onedark&custom_title=Languages%20I%20Use!" />
 </a>
