@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ... -->
 - 📫 How to reach me: 
--    [✉️ E-Mail](mailto:ochota.dariusz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
+<div>
+<a href='https://www.linkedin.com/in/deadjim/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=plastic&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+<a href='mailto:ochota.dariusz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/ochota.dariusz@gmail.com-100000?style=plastic&logo=Gmail&logoColor=white&labelColor=CD403A&color=CD403A'/></a>
+</div>
 
 ![wtf](https://runway.com/images/Huh.gif)
 
