@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href='mailto:ochota.dariusz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/ochota.dariusz@gmail.com-100000?style=plastic&logo=Gmail&logoColor=white&labelColor=CD403A&color=CD403A'/></a>
 </div>
 
-![wtf](https://runway.com/images/Huh.gif)
+![wtf](https://media.tenor.com/me1Yk0jRlHoAAAAM/huh-confused.gif)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ochotadariusz&hide_progress=false&theme=onedark&hide_border=true&layout=compact)](https://github.com/ochotadariusz)
